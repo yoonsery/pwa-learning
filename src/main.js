@@ -48,4 +48,4 @@ loadItems()
   })
   .catch(console.log);
 
-  // https://competent-curran-66e516.netlify.app/
+
