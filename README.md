@@ -121,3 +121,9 @@ pwa를 만들기 위해 manifest에 어떤 내용이 들어가야하는지 설�
 - [x] Fresh
 - [x] Re-engageable
 - [x] Connectivity Independent
+
+---
+[PWABuilder](https://www.pwabuilder.com/)
+[Workbox](https://developers.google.com/web/tools/workbox)
+[Maskable](https://maskable.app/)
+[PWABuilder Github](https://github.com/pwa-builder/pwabuilder-web/blob/V2/src/assets/next-steps.md)
