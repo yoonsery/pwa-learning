@@ -21,6 +21,8 @@ html, css, js로 만든 웹앱을 모던한 웹 브라우저 APIs와 결합해�
 
 - new class of web apps (크롬의 개발자가 새로운 클래스의 웹어플리케이션 언급)
 
+---
+
 - [x] responsive web design 컨텐츠가 유동적으로 반응할것
 - [x] service workers 사용
 - [x] app manifest 사용할 것
